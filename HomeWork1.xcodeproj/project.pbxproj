@@ -13,6 +13,7 @@
 		E4699574233D52C800093D34 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4699573233D52C800093D34 /* Assets.xcassets */; };
 		E4699577233D52C800093D34 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4699575233D52C800093D34 /* LaunchScreen.storyboard */; };
 		E469957A233D52C800093D34 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E4699579233D52C800093D34 /* main.m */; };
+		E4699582233D549800093D34 /* ISSQuickSort.m in Sources */ = {isa = PBXBuildFile; fileRef = E4699581233D549800093D34 /* ISSQuickSort.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		E4699576233D52C800093D34 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E4699578233D52C800093D34 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E4699579233D52C800093D34 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		E4699580233D549800093D34 /* ISSQuickSort.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ISSQuickSort.h; sourceTree = "<group>"; };
+		E4699581233D549800093D34 /* ISSQuickSort.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ISSQuickSort.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				E4699575233D52C800093D34 /* LaunchScreen.storyboard */,
 				E4699578233D52C800093D34 /* Info.plist */,
 				E4699579233D52C800093D34 /* main.m */,
+				E4699580233D549800093D34 /* ISSQuickSort.h */,
+				E4699581233D549800093D34 /* ISSQuickSort.m */,
 			);
 			path = HomeWork1;
 			sourceTree = "<group>";
@@ -142,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E469956F233D52C600093D34 /* ViewController.m in Sources */,
+				E4699582233D549800093D34 /* ISSQuickSort.m in Sources */,
 				E469957A233D52C800093D34 /* main.m in Sources */,
 				E469956C233D52C600093D34 /* AppDelegate.m in Sources */,
 			);
